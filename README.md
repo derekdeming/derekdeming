@@ -45,19 +45,19 @@ I'm full-stack machine learning engineer and software engineer building solution
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨🏻‍💻 Derek's Coding Journey</h3></summary>
+   I started my coding journey a bit later than others. I was a premed student studying biology and chemistry in undergrad. I was a student researcher all four years of undergrad doing complex data analysis which is really where my coding journey started. I had a burning passion to learn everything I could about the interdisciplinary field of applied computational biochemistry - code, machine learning, protein design, statistical modeling. And all the while, teaching myself computer science the dream of becoming a medical doctor (MD) dissipated and my love for research and understanding the world began to thrive. I graduated from college with a direct entrance into a PhD program where I was able to do applied (ML) statistical chemistry research on porous material design. I utilized experimental, computational, and theoretical methodology during my graduate studies. I received the Distinguished Graduate Research Fellowship Award to be funded for the rest of my PhD. COVID hit and my introspective time spent alone found me to fall in love with computer science to the point where I left my PhD with a Master’s to pursue a fully computational research role. I performed DFT, Markov Chain Monte Carlo simulations on mutated proteins to understand the energetics when proteins fold. This was a complete shift in what I was doing prior and I really enjoyed it. I eventually shifted towards industry to learn best practices and advance my career further. I became the first hire at a startup within Coca Cola as a ML data scientist where I built out their entire ML platform utilizing Databricks, Snowflake/Snowpark, and Azure DevOps as our cloud providers. Eventually I left to start my journey in ML infrastructure where I am currently working as a Data Platform Software Engineer on the MLOps team at a financial company. This journey has not been linear and I never pictured myself here today but I wouldn’t change a part of it. The journey has been incredible and I have enjoyed it every step of the way! I am looking forward to building my own projects and contributing to open source projects. 
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://derekdeming.com
 
 
-   ## Random Joke Generator
 
-   ![Jokes Card](https://readme-jokes.vercel.app/api)
+## Random Joke Generator
 
-   ## Profile View Counter
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-   ![Profile View Counter](https://komarev.com/ghpvc/?username=derekdeming)
+## Profile View Counter
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=derekdeming)
 
 ---
