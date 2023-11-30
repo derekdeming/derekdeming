@@ -1,7 +1,9 @@
 # Derek Deming 👨🏻‍💻
 
 **`NEW GITHUB PROFILE!!!-- old one was lost`**  
+
 **`"Full Stack" Machine Learning Engineer / Software Engineer / MLOps`**  
+
 **`Researcher and Innovative Thinker`**  
 
 
