@@ -1,6 +1,6 @@
 # Derek Deming 👨🏻‍💻
 
-**`My new github -- old one was lost`**  
+**`NEW GITHUB PROFILE!!! -- old one was lost`**  
 **`Researcher and Innovative Thinker ("Full Stack" Machine Learning Engineer / Software Engineer / MLOps)`**  
 
 I'm an indie full-stack machine learning engineer and software engineer building solutions to make this world a better place. I believe in solving problems that actually exist rather than slapping the title of "AI" on it and call it an "innovative solution". All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I love to think about problems & product, play video games, and indulge in all kinds of food. I have two dogs with my partner and trying to figure out where I fit in this AI revolution we are having. 
