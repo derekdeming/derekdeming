@@ -28,7 +28,7 @@ I'm full-stack machine learning engineer and software engineer building solution
     srcset="https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox" />
 </picture>
 
 #
