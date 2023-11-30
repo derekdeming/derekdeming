@@ -19,19 +19,26 @@ I'm full-stack machine learning engineer and software engineer building solution
 
    #
 
-   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox" />
-</picture>
 
-#
+## 2. Most Used Languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=derekdeming&theme=blue-green)
+
+## 3. Contributors Badge
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=derekdeming/Python)
+
+## 4. Random Joke Generator
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 5. Profile View Counter
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=derekdeming)
+
+### Repository View Counter - HITS
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/derekdeming/Python)
 
 ---
 
