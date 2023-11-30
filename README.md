@@ -54,7 +54,7 @@ I'm full-stack machine learning engineer and software engineer building solution
 
 ### 📊 Stats
 
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
