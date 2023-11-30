@@ -18,19 +18,20 @@ I'm full-stack machine learning engineer and software engineer building solution
 
 
    #
+   ### 📊 Stats
+
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox)
+
+   #
 
 
-## 4. Random Joke Generator
+   ## 4. Random Joke Generator
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+   ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 5. Profile View Counter
+   ## 5. Profile View Counter
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=derekdeming)
-
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/derekdeming/Python)
+   ![Profile View Counter](https://komarev.com/ghpvc/?username=derekdeming)
 
 ---
 
@@ -49,12 +50,6 @@ I'm full-stack machine learning engineer and software engineer building solution
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
-#
-
-### 📊 Stats
-
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
