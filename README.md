@@ -24,17 +24,6 @@ I'm full-stack machine learning engineer and software engineer building solution
 
    #
 
-
-   ## 4. Random Joke Generator
-
-   ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-   ## 5. Profile View Counter
-
-   ![Profile View Counter](https://komarev.com/ghpvc/?username=derekdeming)
-
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -61,3 +50,14 @@ I'm full-stack machine learning engineer and software engineer building solution
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
+
+
+   ## Random Joke Generator
+
+   ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+   ## Profile View Counter
+
+   ![Profile View Counter](https://komarev.com/ghpvc/?username=derekdeming)
+
+---
