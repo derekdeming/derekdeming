@@ -18,9 +18,9 @@ I'm full-stack machine learning engineer and software engineer building solution
 
 
    #
-   ### 📊 Stats
+   ### 📊 New Profile Stats
 
-![Derek's New Profile GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox)
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox)
 
    #
 
