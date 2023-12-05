@@ -11,7 +11,7 @@ I'm full-stack machine learning engineer and software engineer building solution
 
    <p align="left">
       <a href="https://github.com/derekdeming?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/derekdeming?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/derekdeming?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/derekdeming?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/derekdeming?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
