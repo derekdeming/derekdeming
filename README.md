@@ -16,8 +16,6 @@ I'm full-stack machine learning engineer and software engineer building solution
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/derekdeming?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-
-   #
  <!--  ### 📊 New Profile Stats -->
 
 <!-- ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekdeming&show_icons=true&theme=gruvbox) -->
