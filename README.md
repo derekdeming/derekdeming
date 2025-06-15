@@ -2,7 +2,7 @@
 
 **`NEW-ish... GITHUB PROFILE... not really "new" anymore but old one was lost`**  
 
-**`"Full Stack" Machine Learning Engineer / Software Engineer / MLOps`**  
+**`"Full Stack" ML Engineer / Software Engineer / MLOps & Infra / Security`**  
 
 **`Former Applied ML Researcher and Innovative Thinker`**  
 
